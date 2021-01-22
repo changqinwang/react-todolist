@@ -1,0 +1,38 @@
+.todo-header_tite {
+  font-size: 54px;
+  color: rgb(230, 142, 142);
+  font-family: fantasy;
+  text-align: center;
+  margin: 20px;
+}
+
+.todo-header_ip {
+  width: 500px;
+  height: 58px;
+  font-size: 18px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 4px 10px;
+  display: inline-block;
+}
+
+.header_btn {
+  color: #fff;
+  background-color: #5cb1d3;
+  border: 1px solid #d8ebf0;
+  display: inline-block;
+  width: 40px;
+  height: 58px;
+  margin-left: 10px;
+}
+
+.header_btn:hover {
+  color: #fff;
+  background-color: #088153;
+}
+
+.todo-header_ip:focus {
+  outline: none;
+  border-color: rgba(21, 134, 226, 0.8);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(82, 168, 236, 0.6);
+}

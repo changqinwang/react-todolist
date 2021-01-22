@@ -1,0 +1,23 @@
+.todo-footer {
+  height: 40px;
+  line-height: 40px;
+  padding-left: 6px;
+  margin-top: 5px;
+}
+
+.btn-danger {
+  margin-left: 12px;
+  float: right;
+}
+.footer_pre{
+  height: 28px;
+  background-image:url(../../image/左箭头.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.footer_nex{
+  height: 28px;
+  background-image:url(../../image/箭头\ \(1\).png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}

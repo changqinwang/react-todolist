@@ -1,0 +1,41 @@
+/*item*/
+.item_li {
+  list-style: none;
+  height: 56px;
+  line-height: 56px;
+  padding: 0 5px;
+  border-bottom: 1px solid #ddd;
+  padding: 0 13px;
+  position: relative;
+}
+
+.item_ip {
+  vertical-align: middle;
+  margin-right: 6px;
+  position: relative;
+  top: -1px;
+}
+
+.item_select {
+  border: 1px solid #cccccc;
+  box-shadow: 0 0 5px #ccc;
+  position: absolute;
+  right: 100px;
+  top: 21px;
+}
+
+.item_content {
+  font-size: 18px;
+  padding-left: 15px;
+}
+
+.btn-danger {
+  float: right;
+  display: none;
+  margin-top: 13px;
+
+}
+
+li:last-child {
+  border-bottom: none;
+}
